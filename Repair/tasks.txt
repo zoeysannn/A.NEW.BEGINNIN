@@ -1,0 +1,23 @@
+Task 1
+Write a program that asks for a number from user, and prints ‘Even’ or ‘Odd’ after 
+checking whether the number is even or odd.
+
+Task 2
+Get a 2-digit number from the user. Print each digit separately.
+
+Task 3
+Get a 4-digit number from user. Print addition of the digits 
+
+Task 4
+Get the user’s age, print out age category - kid, young, adult, old
+
+Task 5
+Get two integer numbers as input, return their product only if the product is equal to
+ or lower than 1000. Otherwise, return their sum.
+
+Task 6
+Get a number from user. Check if this is positive or negative.
+And print message according to result. 
+
+Task 7 
+Get 3 numbers as input. Calculate and print average of them. 
